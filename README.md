@@ -63,4 +63,4 @@ Results/
     matlab-output.png
 ## Hardware Implementation
 
-![Hamming Code Hardware](Hamming code.jpeg)
+![Hamming Code Hardware](Hammingcode.jpeg)
